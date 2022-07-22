@@ -1,0 +1,2 @@
+INSERT INTO movies (name, description, avg_rating) VALUES ('The Godfather', 'The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.', 0);
+INSERT INTO users (username, password) VALUES ('igor', 'teste');
